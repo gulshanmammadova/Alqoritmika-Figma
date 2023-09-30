@@ -111,6 +111,10 @@ height: 182.438px;
     font-size: 15px;
 
 }
+.lessons{
+    margin-left: 0;
+    width: 10%;
+}
   }
 
 
@@ -150,9 +154,10 @@ height: 146.781px;
     width: 100%;
 }
 .lessons {
-    width: 23%;
+    width: 26%;
     margin-right: 34px;
     margin-bottom: 34px;
+    margin-left: 0;
 }
 .page-footer{
     flex-wrap: wrap;
